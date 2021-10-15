@@ -1,6 +1,8 @@
 
 #https://alpaca.markets/learn/swell-socially-responsible-investing/
 
+##https://gist.github.com/evanhft/d58d0f191030e9b1e7af8314dae9b337#file-sri-py
+
 """
 Do-it-yourself passive socially responsible investing example algo
 Author: evan@alpaca.markets
